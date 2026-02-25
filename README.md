@@ -15,12 +15,12 @@
 
 Frontend Website
 ```
-    COMING SOON
+    https://todo-list-full-stack-frontend.vercel.app/
 ```
 
 Backend Website
 ```
-    COMING SOON
+    https://todo-list-full-stack-backend-kappa.vercel.app/
 ```
 
 # Project Versions
