@@ -1,4 +1,4 @@
-# TodoList-FullStack
+# TodoList-FullStack ![Generated Lines of Code](https://kayden-cpu.github.io/TodoList-FullStack/badge.svg)
 
 ## Project Text Stack
 - Frontend
